@@ -1,2 +1,2 @@
-# Базовый фреймворк для UI web автотестов на python + selenium
+# Base framework UI web auto-tests, python + selenium
 
